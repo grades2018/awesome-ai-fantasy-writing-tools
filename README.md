@@ -18,6 +18,7 @@ Tools that help authors draft epic, urban, cozy, and romantic fantasy: long-form
 - [Formatting and Export](#formatting-and-export)
 - [Covers and Titles](#covers-and-titles)
 - [General AI Assistants](#general-ai-assistants)
+- [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
 ## AI Writing Suites for Fantasy
@@ -103,6 +104,13 @@ General-purpose models fantasy writers use for brainstorming and lore Q&A.
 
 - [Claude](https://www.anthropic.com/claude) - Long-context AI assistant for lore checks, chapter feedback, and brainstorming.
 - [ChatGPT](https://openai.com/chatgpt/overview) - General AI chatbot for brainstorming magic systems, cultures, and plot options.
+
+## Related Lists
+
+- [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
+- [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
+- [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
+- [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 
 ## Contributing
 
