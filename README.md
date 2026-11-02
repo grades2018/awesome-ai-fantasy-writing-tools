@@ -40,6 +40,7 @@ Keeping kingdoms, bloodlines, and magic rules straight from book one to book fiv
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Series story bible that carries characters, arcs, open threads, and invented terms into the next volume.
 - [NovelCrafter](https://www.novelcrafter.com/) - Series Codex shared across books so lore and character progressions stay in sync.
 - [Obsidian](https://obsidian.md/) - Linked-note vault popular for lore wikis, character sheets, and continuity graphs.
+- [RelationCanvas](https://relationcanvas.com/) - Free browser tool for character relationship charts with a separate label for each direction; PNG export.
 
 ## Worldbuilding Wikis
 
