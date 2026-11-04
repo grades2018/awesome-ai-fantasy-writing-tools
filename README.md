@@ -64,6 +64,7 @@ Fantasy map makers for endpapers, reader reference, and your own navigation.
 Help with the names, words, and constructed languages that make a world feel real.
 
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Huge free collection of name generators for races, places, and objects.
+- [Name Awesome](https://nameawesome.com/) - Free reference for real first names with meanings, origins, and variant forms in other languages.
 - [Vulgarlang](https://www.vulgarlang.com/) - Conlang generator for consistent fictional languages, words, and grammar.
 
 ## Plotting and Timelines
