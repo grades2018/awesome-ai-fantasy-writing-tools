@@ -65,6 +65,7 @@ Help with the names, words, and constructed languages that make a world feel rea
 
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Huge free collection of name generators for races, places, and objects.
 - [Name Awesome](https://nameawesome.com/) - Free reference for real first names with meanings, origins, and variant forms in other languages.
+- [RandomGeneratr](https://randomgeneratr.com/npc-generator) - Free NPC cards with names, motives, flaws, secrets, factions, and story hooks for fantasy fiction and tabletop preparation.
 - [Vulgarlang](https://www.vulgarlang.com/) - Conlang generator for consistent fictional languages, words, and grammar.
 
 ## Plotting and Timelines
