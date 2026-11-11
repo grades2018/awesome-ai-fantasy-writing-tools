@@ -83,6 +83,7 @@ Revision and critique for long fantasy drafts.
 - [ProWritingAid](https://prowritingaid.com/) - Style and manuscript reports for catching repetition, pacing, and consistency issues.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis.
 - [Marlowe (Authors.ai)](https://authors.ai/marlowe/) - Analytical AI manuscript feedback on plot, pacing, and character.
+- [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Free, offline linter (by this list's curator) that flags stock phrases, cliche beats, and repetition in fiction drafts, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
 
 ## Formatting and Export
 
@@ -110,6 +111,7 @@ General-purpose models fantasy writers use for brainstorming and lore Q&A.
 
 ## Related Lists
 
+- [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
 - [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
