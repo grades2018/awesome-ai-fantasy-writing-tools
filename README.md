@@ -18,8 +18,6 @@ Tools that help authors draft epic, urban, cozy, and romantic fantasy: long-form
 - [Formatting and Export](#formatting-and-export)
 - [Covers and Titles](#covers-and-titles)
 - [General AI Assistants](#general-ai-assistants)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## AI Writing Suites for Fantasy
 
@@ -124,7 +122,3 @@ General-purpose models fantasy writers use for brainstorming and lore Q&A.
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to fantasy and speculative fiction writing, with official links and one-line blurbs.
-
-## License
-
-[CC0 1.0 Universal](LICENSE), public domain dedication.
