@@ -80,6 +80,7 @@ Revision and critique for long fantasy drafts.
 - ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Manuscript Rewrite for polishing or restructuring a full draft while keeping the author's voice.
 - [ProWritingAid](https://prowritingaid.com/) - Style and manuscript reports for catching repetition, pacing, and consistency issues.
 - [AutoCrit](https://www.autocrit.com/) - Fiction-focused manuscript critique with genre-aware analysis.
+- [Revise AI](https://www.revise.net/) - AI line editor that shows grammar, clarity, and style suggestions as tracked changes the author accepts or rejects, so a manuscript keeps the writer's voice.
 - [Marlowe (Authors.ai)](https://authors.ai/marlowe/) - Analytical AI manuscript feedback on plot, pacing, and character.
 - [fiction-slop-lint](https://github.com/grades2018/fiction-slop-lint) - Free, offline linter (by this list's curator) that flags stock phrases, cliche beats, and repetition in fiction drafts, plus a [browser version](https://grades2018.github.io/fiction-slop-lint/). Not an AI detector.
 
