@@ -7,3 +7,5 @@ Thanks for helping improve this list.
 - Tools must be useful to fantasy or speculative fiction authors and actively maintained.
 - Format: `- [Name](https://link) - Description.`
 - No affiliate or tracking links.
+
+If this list is useful to you, a star helps other writers find it.

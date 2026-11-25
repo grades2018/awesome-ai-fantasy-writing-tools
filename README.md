@@ -123,3 +123,5 @@ General-purpose models fantasy writers use for brainstorming and lore Q&A.
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to fantasy and speculative fiction writing, with official links and one-line blurbs.
+
+If this list is useful to you, a star helps other writers find it.
